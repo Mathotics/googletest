@@ -91,3 +91,6 @@ googlemock/gtest
 *.vcxproj
 *.vcxproj.*
 *.sln
+
+# Ignore all *.dir/ folders
+*.dir/
