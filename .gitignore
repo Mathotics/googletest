@@ -82,3 +82,9 @@ googlemock/gtest
 /CMakeCache.txt
 /ALL_BUILD.vcxproj.filters
 /ALL_BUILD.vcxproj
+
+# Ignore all codelite files
+*.codelite
+*.project
+*.workspace
+**/Makefile
